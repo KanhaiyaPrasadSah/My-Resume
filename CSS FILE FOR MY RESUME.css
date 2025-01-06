@@ -1,0 +1,16 @@
+body{
+       
+        background-color: rgb(0, 170, 255);
+        border: 3px solid black; /* Adjust the width, style, and color as needed */
+            padding: 10px; /* Optional: Adds space inside the border */
+            margin: 50px; /* Optional: Adds space outside the border */
+            p{
+                color: green;
+            }
+    }
+div
+{
+    text-align: center;
+   
+}
+
